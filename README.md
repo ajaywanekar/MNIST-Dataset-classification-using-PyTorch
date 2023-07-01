@@ -1,4 +1,4 @@
-# MNIST Dataset classification using PyTorch 
+# Number Recognition using PyTorch 
 
 This project demonstrates the implementation of the LeNet-5 convolutional neural network for handwritten digit recognition using the MNIST dataset.
 
